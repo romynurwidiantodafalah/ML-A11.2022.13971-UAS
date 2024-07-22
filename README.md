@@ -25,7 +25,8 @@ Fluktuasi harga Ethereum yang cepat dan tidak menentu menciptakan tantangan bagi
 
 🚀**Alur Penyelesaian:**
 
-![image](https://github.com/user-attachments/assets/b53ccc38-c6a6-483e-8c31-ca33f17733e4)
+![image](https://github.com/user-attachments/assets/ba2f9535-1a36-4921-8e2d-2c3e5459b21b)
+
 
 🚀**Hasil:**
 
